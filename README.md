@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0709-to-lower-case](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0709-to-lower-case) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0342-power-of-four) |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
