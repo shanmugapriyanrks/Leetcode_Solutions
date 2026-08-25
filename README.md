@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0709-to-lower-case](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0709-to-lower-case) |
 ## Math
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0704-binary-search](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
