@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1991-find-the-middle-index-in-array](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -61,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -89,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0268-missing-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
