@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1991-find-the-middle-index-in-array](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
