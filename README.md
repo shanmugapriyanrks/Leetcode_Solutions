@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1991-find-the-middle-index-in-array](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
