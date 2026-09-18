@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1528-shuffle-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Trie
 |  |
 | ------- |
