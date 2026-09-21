@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1108-defanging-an-ip-address) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0392-is-subsequence](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
