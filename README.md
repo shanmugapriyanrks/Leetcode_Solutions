@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-shuffle-string](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1528-shuffle-string) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Dynamic Programming
