@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-shuffle-string](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Dynamic Programming
 |  |
