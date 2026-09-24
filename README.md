@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1528-shuffle-string](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
