@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -152,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shanmugapriyanrks/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
